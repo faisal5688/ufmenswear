@@ -136,3 +136,17 @@ body { -webkit-tap-highlight-color: #222; }
     padding-bottom: 1%;
   }
 }
+
+@media (max-width: 991.98px) {
+  /* .contactIcons{
+    width: 70%;
+    left: 20%;
+    
+  } */
+  .contactIcons div{
+    width: 20%;
+    float: left;
+    margin: 1%;
+    padding-bottom: 1%;
+  }
+}
