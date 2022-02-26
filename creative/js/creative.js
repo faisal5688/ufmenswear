@@ -94,10 +94,10 @@
         
     });
     updateBackImage(rndInt);
-    setInterval(function(){
-        rndInt = randomIntFromInterval(1, 9);
-        updateBackImage(rndInt)
-    }, 3000);
+    // setInterval(function(){
+    //     rndInt = randomIntFromInterval(1, 9);
+    //     updateBackImage(rndInt)
+    // }, 3000);
 
     var updateImageRandomly = function(){
         
