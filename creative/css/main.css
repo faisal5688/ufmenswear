@@ -115,7 +115,7 @@ body { -webkit-tap-highlight-color: #222; }
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
   .contactIcons div{
-    width: 20%;
+    width: 21%;
     float: left;
     margin: 1%;
     padding-bottom: 1%;
@@ -124,8 +124,13 @@ body { -webkit-tap-highlight-color: #222; }
 
 /* Small devices (landscape phones, less than 768px) */
 @media (max-width: 767.98px) {
+  /* .contactIcons{
+    width: 70%;
+    left: 20%;
+    
+  } */
   .contactIcons div{
-    width: 20%;
+    width: 21%;
     float: left;
     margin: 1%;
     padding-bottom: 1%;
