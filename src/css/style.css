@@ -1,0 +1,8 @@
+.header__logo{
+    left: 50%;
+    position: relative;
+}
+
+.header__logo p{
+    font-size: 55px;
+}
